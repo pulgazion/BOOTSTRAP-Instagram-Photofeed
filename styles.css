@@ -15,6 +15,7 @@ html, body {
 body {
   font: 14px/1 'Open Sans', sans-serif;
   background: white;
+
 }
 
 
@@ -23,6 +24,7 @@ main {
   padding: 50px;
   margin: 0 auto;
   background: #fff;
+
 }
 
 section {
@@ -90,6 +92,8 @@ div.card img {
     width: 100%;
 
 }
+
+
 
 div.date {
 
